@@ -9,6 +9,9 @@
 # testing
 /coverage
 
+# parameters
+/lib/amplifyConfig.ts
+
 # next.js
 /.next/
 /out/
