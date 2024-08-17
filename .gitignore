@@ -10,7 +10,7 @@
 /coverage
 
 # parameters
-/lib/amplifyConfig.ts
+/src/lib/amplifyConfig.ts
 
 # next.js
 /.next/
